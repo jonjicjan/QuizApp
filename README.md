@@ -34,7 +34,7 @@ Ensure you have the following installed:
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/jonjicjan/quiz-app.git
+   git clone https://github.com/jonjicjan/QuizApp.git
    cd quiz-app
    ```
 
